@@ -1,0 +1,53 @@
+**Nama  : Rizka Amalia**
+
+**Kelas : 5MIP**
+
+**NIM   : 062040832826**
+
+                                                                    TUGAS PRATIKUM REKAYASA WEB
+
+**1. Apa itu Git dan Kegunuaanya?**
+
+   Git adalah sistem kendali versi terdistribusi, yang berarti semua codebase dan riwayat kode akan tersedia di komputer setiap developer untuk 
+   memudahkan pembuatan branch dan penggabungan. Git dikembangkan oleh Linus Torvalds pada tahun 2005, dan merupakan inti atau jantung GitHub.
+   Kegunuaann Git adalah sebagai platform fleksibilitas karena dapat digunakan sebagai solusi untuk hosting pada semua proyek. 
+
+**2. Apa itu Github dan kegunaanya?**
+
+   Github adalah sebuah website dan layanan berbasis cloud bagi para developer untuk menyimpan dan mengelola kode, serta mendokumentasikan dan mengontrol 
+   perubahannya.
+
+   Fungsi Github : 
+   1) Sebagai Portfolio bagi developer
+   2) Tempat kolaborasi project
+   3) Mengawasi repository
+
+**3. Sebutkan istilah-istilah yang ada di Git dan jelaskan masing masing istilah tersebut**
+
+   Repository: folder yang berisi file dan riwayat perubahan kode pada project.
+   
+   Commit: riwayat perubahan pada file project. Melihat siapa yang membuat perubahan, apa yang diubah dan kapan perubahan itu dilakukan.
+   
+   Clone: memungkinkan kamu untuk mendownload project yang ada di GitHub. Sehingga kamu bisa mengeditnya secara offline.
+   
+   Fork: untuk menyalin repository milik orang lain ke dalam akun GitHub. Biasanya dilakukan dengan tujuan eksperimen pada project milik orang lain yang 
+   dianggap menarik.
+   
+   Merge: berfungsi untuk menggabungkan branch ke repository utama.
+   
+   Branch: cabang dari repository utama. Di dalam branch, kamu bisa melakukan perubahan apa saja tanpa mengkhawatirkan repository utama.
+
+**4. Sebutkan layanan selain Github**
+   
+   Web yang seperti GitHub (penyedia source code/kode sumber dari beberapa program/layanan):
+   - SourceForge 
+   - CodePlex 
+   - BitBucket 
+   - GitLab 
+   - BeanStalk 
+   - Google Cloud Source 
+    
+   
+
+
+
